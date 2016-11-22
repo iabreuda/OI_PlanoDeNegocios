@@ -1,47 +1,46 @@
 \select@language {portuges}
 \contentsline {section}{\numberline {1}Plano de Gest\IeC {\~a}o}{3}{section.1}
 \contentsline {subsection}{\numberline {1.1}Fatores Culturais}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Fatores Ambientais}{4}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Fatores Mercadol\IeC {\'o}gicos}{4}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Servi\IeC {\c c}os de Streaming}{4}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Eventos Presenciais}{5}{subsubsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.3}Televis\IeC {\~a}o}{5}{subsubsection.1.3.3}
-\contentsline {subsection}{\numberline {1.4}Fatores Geogr\IeC {\'a}ficos}{6}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}Fatores Pol\IeC {\'\i }ticos}{6}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Fatores Econ\IeC {\^o}micos}{6}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Fatores Sociais}{6}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}Fatores Tecnol\IeC {\'o}gicos}{6}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}An\IeC {\'a}lise SWOT}{6}{subsection.1.9}
-\contentsline {subsection}{\numberline {1.10}Modelo de Neg\IeC {\'o}cio Canvas}{6}{subsection.1.10}
-\contentsline {subsection}{\numberline {1.11}Fatores Cr\IeC {\'\i }ticos de sucesso}{6}{subsection.1.11}
-\contentsline {section}{\numberline {2}Plano de Marketing}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Descri\IeC {\c c}\IeC {\~a}o dos Servi\IeC {\c c}os}{7}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}For\IeC {\c c}as do Marketing}{7}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Produto}{7}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Pre\IeC {\c c}o}{7}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Pra\IeC {\c c}a}{7}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Promo\IeC {\c c}\IeC {\~a}o}{7}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}Pessoas}{7}{subsubsection.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.6}Processos}{7}{subsubsection.2.2.6}
-\contentsline {section}{\numberline {3}Plano Operacional}{8}{section.3}
-\contentsline {subsection}{\numberline {3.1}Layout Operacional}{8}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Capacidade de Presta\IeC {\c c}\IeC {\~a}o}{8}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Processos Operacionais}{8}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Necessidade inicial de colaboradores}{8}{subsection.3.4}
-\contentsline {section}{\numberline {4}Plano Financeiro}{9}{section.4}
-\contentsline {subsection}{\numberline {4.1}Investimentos Iniciais}{9}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Capital de Giro}{9}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Investimentos Pr\IeC {\'e}-Operacionais}{9}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Investimento Total}{9}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Estimativa de faturamento}{9}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Estimativa do custo de comercializa\IeC {\c c}\IeC {\~a}o}{9}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Estimativa do custo de cada produto vendido}{9}{subsection.4.7}
-\contentsline {subsection}{\numberline {4.8}Custos com Deprecia\IeC {\c c}\IeC {\~a}o}{9}{subsection.4.8}
-\contentsline {subsection}{\numberline {4.9}Custos Operacionais}{9}{subsection.4.9}
-\contentsline {subsection}{\numberline {4.10}DRE}{9}{subsection.4.10}
-\contentsline {subsection}{\numberline {4.11}O Fluxo de Caixa}{9}{subsection.4.11}
-\contentsline {subsection}{\numberline {4.12}Indicadores de Viabilidade}{9}{subsection.4.12}
-\contentsline {subsection}{\numberline {4.13}Cen\IeC {\'a}rio Alternativo}{9}{subsection.4.13}
-\contentsline {section}{\numberline {5}Estrutura da Empresa}{10}{section.5}
-\contentsline {subsection}{\numberline {5.1}Estrutura Organizacional}{10}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Estrutura jur\IeC {\'\i }dica}{10}{subsection.5.2}
+\contentsline {subsection}{\numberline {1.2}Fatores Ambientais}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Fatores Mercadol\IeC {\'o}gicos}{5}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Servi\IeC {\c c}os de Streaming}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Eventos Presenciais}{6}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Televis\IeC {\~a}o}{6}{subsubsection.1.3.3}
+\contentsline {subsection}{\numberline {1.4}Fatores Geogr\IeC {\'a}ficos}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Fatores Econ\IeC {\^o}micos}{7}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Fatores Sociais}{7}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Fatores Tecnol\IeC {\'o}gicos}{8}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}An\IeC {\'a}lise SWOT}{10}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Modelo de Neg\IeC {\'o}cio Canvas}{11}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Fatores Cr\IeC {\'\i }ticos de sucesso}{12}{subsection.1.10}
+\contentsline {section}{\numberline {2}Plano de Marketing}{13}{section.2}
+\contentsline {subsection}{\numberline {2.1}Descri\IeC {\c c}\IeC {\~a}o dos Servi\IeC {\c c}os}{13}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}For\IeC {\c c}as do Marketing}{13}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Produto}{13}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Pre\IeC {\c c}o}{13}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Pra\IeC {\c c}a}{13}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Promo\IeC {\c c}\IeC {\~a}o}{13}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Pessoas}{13}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Processos}{13}{subsubsection.2.2.6}
+\contentsline {section}{\numberline {3}Plano Operacional}{14}{section.3}
+\contentsline {subsection}{\numberline {3.1}Layout Operacional}{14}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Capacidade de Presta\IeC {\c c}\IeC {\~a}o}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Processos Operacionais}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Necessidade inicial de colaboradores}{14}{subsection.3.4}
+\contentsline {section}{\numberline {4}Plano Financeiro}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Investimentos Iniciais}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Capital de Giro}{15}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Investimentos Pr\IeC {\'e}-Operacionais}{15}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Investimento Total}{15}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Estimativa de faturamento}{15}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Estimativa do custo de comercializa\IeC {\c c}\IeC {\~a}o}{15}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Estimativa do custo de cada produto vendido}{15}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Custos com Deprecia\IeC {\c c}\IeC {\~a}o}{15}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}Custos Operacionais}{15}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}DRE}{15}{subsection.4.10}
+\contentsline {subsection}{\numberline {4.11}O Fluxo de Caixa}{15}{subsection.4.11}
+\contentsline {subsection}{\numberline {4.12}Indicadores de Viabilidade}{15}{subsection.4.12}
+\contentsline {subsection}{\numberline {4.13}Cen\IeC {\'a}rio Alternativo}{15}{subsection.4.13}
+\contentsline {section}{\numberline {5}Estrutura da Empresa}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}Estrutura Organizacional}{16}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Estrutura jur\IeC {\'\i }dica}{16}{subsection.5.2}
