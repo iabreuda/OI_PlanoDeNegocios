@@ -3,12 +3,12 @@
 \contentsline {subsection}{\numberline {1.1}Fatores Culturais}{3}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Fatores Ambientais}{5}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Fatores Mercadol\IeC {\'o}gicos}{5}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Servi\IeC {\c c}os de Streaming}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1}Servi\IeC {\c c}os de Streaming}{6}{subsubsection.1.3.1}
 \contentsline {subsubsection}{\numberline {1.3.2}Eventos Presenciais}{6}{subsubsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.3}Televis\IeC {\~a}o}{6}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.3}Televis\IeC {\~a}o}{7}{subsubsection.1.3.3}
 \contentsline {subsection}{\numberline {1.4}Fatores Geogr\IeC {\'a}ficos}{7}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}Fatores Econ\IeC {\^o}micos}{7}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Fatores Sociais}{7}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.6}Fatores Sociais}{8}{subsection.1.6}
 \contentsline {subsection}{\numberline {1.7}Fatores Tecnol\IeC {\'o}gicos}{8}{subsection.1.7}
 \contentsline {subsection}{\numberline {1.8}An\IeC {\'a}lise SWOT}{10}{subsection.1.8}
 \contentsline {subsection}{\numberline {1.9}Modelo de Neg\IeC {\'o}cio Canvas}{11}{subsection.1.9}
@@ -18,29 +18,36 @@
 \contentsline {subsection}{\numberline {2.2}For\IeC {\c c}as do Marketing}{13}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Produto}{13}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Pre\IeC {\c c}o}{13}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Pra\IeC {\c c}a}{13}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Promo\IeC {\c c}\IeC {\~a}o}{13}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}Pessoas}{13}{subsubsection.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.6}Processos}{13}{subsubsection.2.2.6}
-\contentsline {section}{\numberline {3}Plano Operacional}{14}{section.3}
-\contentsline {subsection}{\numberline {3.1}Layout Operacional}{14}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Capacidade de Presta\IeC {\c c}\IeC {\~a}o}{14}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Processos Operacionais}{14}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Necessidade inicial de colaboradores}{14}{subsection.3.4}
-\contentsline {section}{\numberline {4}Plano Financeiro}{15}{section.4}
-\contentsline {subsection}{\numberline {4.1}Investimentos Iniciais}{15}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Capital de Giro}{15}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Investimentos Pr\IeC {\'e}-Operacionais}{15}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Investimento Total}{15}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Estimativa de faturamento}{15}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Estimativa do custo de comercializa\IeC {\c c}\IeC {\~a}o}{15}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Estimativa do custo de cada produto vendido}{15}{subsection.4.7}
-\contentsline {subsection}{\numberline {4.8}Custos com Deprecia\IeC {\c c}\IeC {\~a}o}{15}{subsection.4.8}
-\contentsline {subsection}{\numberline {4.9}Custos Operacionais}{15}{subsection.4.9}
-\contentsline {subsection}{\numberline {4.10}DRE}{15}{subsection.4.10}
-\contentsline {subsection}{\numberline {4.11}O Fluxo de Caixa}{15}{subsection.4.11}
-\contentsline {subsection}{\numberline {4.12}Indicadores de Viabilidade}{15}{subsection.4.12}
-\contentsline {subsection}{\numberline {4.13}Cen\IeC {\'a}rio Alternativo}{15}{subsection.4.13}
-\contentsline {section}{\numberline {5}Estrutura da Empresa}{16}{section.5}
-\contentsline {subsection}{\numberline {5.1}Estrutura Organizacional}{16}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Estrutura jur\IeC {\'\i }dica}{16}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Pra\IeC {\c c}a}{15}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Promo\IeC {\c c}\IeC {\~a}o}{15}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Pessoas}{16}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Processos}{16}{subsubsection.2.2.6}
+\contentsline {section}{\numberline {3}Plano Operacional}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Layout Operacional}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Capacidade de Presta\IeC {\c c}\IeC {\~a}o}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Processos Operacionais}{17}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Necessidade inicial de colaboradores}{18}{subsection.3.4}
+\contentsline {section}{\numberline {4}Plano Financeiro}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Investimentos Iniciais}{20}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Capital de Giro}{20}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Investimentos Pr\IeC {\'e}-Operacionais}{21}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Investimento Total}{21}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Estimativa de faturamento}{21}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Espectadores}{21}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Merchandising}{21}{subsubsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.3}Plataformas de Streaming}{22}{subsubsection.4.5.3}
+\contentsline {subsubsection}{\numberline {4.5.4}YouTube e Similares}{22}{subsubsection.4.5.4}
+\contentsline {subsubsection}{\numberline {4.5.5}Patrocinadores}{22}{subsubsection.4.5.5}
+\contentsline {subsubsection}{\numberline {4.5.6}Servi\IeC {\c c}os e Consultoria Externa}{23}{subsubsection.4.5.6}
+\contentsline {subsection}{\numberline {4.6}Estimativa do custo do servi\IeC {\c c}o}{25}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Estimativa de Custo de Comercializa\IeC {\c c}\IeC {\~a}o}{25}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Provis\IeC {\~a}o para Devedores Duvidosos}{26}{subsubsection.4.6.2}
+\contentsline {subsection}{\numberline {4.7}Custos com Deprecia\IeC {\c c}\IeC {\~a}o}{26}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Custos Operacionais}{26}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}DRE}{26}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}O Fluxo de Caixa}{26}{subsection.4.10}
+\contentsline {subsection}{\numberline {4.11}Indicadores de Viabilidade}{26}{subsection.4.11}
+\contentsline {subsection}{\numberline {4.12}Cen\IeC {\'a}rio Alternativo}{26}{subsection.4.12}
+\contentsline {section}{\numberline {5}Estrutura da Empresa}{27}{section.5}
+\contentsline {subsection}{\numberline {5.1}Estrutura Organizacional}{27}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Estrutura jur\IeC {\'\i }dica}{27}{subsection.5.2}

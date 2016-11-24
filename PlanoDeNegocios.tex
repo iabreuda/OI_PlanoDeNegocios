@@ -14,6 +14,10 @@
 \usepackage{pbox}
 \usepackage{wrapfig}
 \usepackage{pdflscape}
+\usepackage{longtable}
+
+\setlength{\parindent}{3em}
+\setlength{\parskip}{0.4em}
 
 \renewcommand{\UrlFont}{\scriptsize}
 \author{I. Messina, I. Abreu, P. Gil, R. Bellotti, T. Proux}
@@ -172,29 +176,322 @@ Ao examinar o posicionamento competitivo da eVarsity, ao interpretar os números
 \newpage
 \section{Plano de Marketing}
 \subsection{Descrição dos Serviços}
+eVarsity é uma empresa da área do entretenimento, oferecendo serviços que contém, mas não se limitam exclusivamente, a organização de eventos presenciais e não-presenciais de eSport e espaços de divulgação de marcas e empresas.
 \subsection{Forças do Marketing}
 \subsubsection{Produto}
+Os produtos oferecidos pela eVarsity podem ser classificados em duas classes: serviços B2C (business to commerce - empresa para consumidor) e serviços B2B (business to business - empresa para empresa).
+
+Na classe de serviço B2C, a atividade é a organização direta dos campeonatos. Isso engloba o fornecimento de toda a infraestrutura necessária para os eventos. Nos campeonatos não-presenciais, servidores para os jogos que necessitem ser hospedados e uma equipe para divulgar e narrar as partidas.
+
+Já para os campeonatos presenciais, além do espaço físico preparado para acomodar os torcedores e as equipes, também é necessário servidores, além de computadores que serão fornecidos aos participantes, com teclados e mouses disponíveis caso necessário (a maioria das equipes preferem levar seus próprios periféricos para as competições).
+
+Na classe de serviço B2B, existem dois produtos. O primeiro, a atividade de consultoria para a organização de eventos, prestando serviços para outras empresas. Nessa situação, nosso papel dependeria do que a empresa necessitaria baseado nos requisitos expostos nos parágrafos acima. O segundo, o oferecimento de espaço de divulgação para empresas que se interessem em se fazer presentes no espaço universitário, e a coleta de dados dos espectadores do evento para compor os bancos de dados de \textit{headhunter} destas mesmas empresas.
 \subsubsection{Preço}
+Definir um preço para as atividades da eVarsity esbarra na variabilidade que pode existir de acordo com o serviço que a empresa oferecer. Para as duas classes de serviços oferecidos, o consumidor pode variar entre empresas de variados tamanhos e diferentes consumidores finais, influenciando diretamente a definição do preço. Além disso, dependendo da dimensão e da duração do evento, assim como do espaço físico onde será realizado e das requisições específicas de momento, é possível a existência de métricas distintas e momentâneas para precificação dos serviços prestados.
+
+Em suma, objetivo de nossa organização é que nossos serviços adicionem valor aos nossos clientes e o preço será proporcional a esse valor.
+
+A organização de eventos universitários e amadores/semi-profissionais cumpre duas demandas pouco cobertas pela concorrência. A primeira, promover a valorização de potenciais esportistas eletrônicos através da realização de eventos que servem de validação prática de suas eventuais profissões, promovendo sua continuidade e crescimento no cenário local e fomentando o crescimento de seus espaços de divulgação pessoal nas mídias sociais. A segunda, fornecer um meio para que os fãs desses esportes possam assistir torneios presenciais de qualidade e estarem constantemente antenados às mais recentes novidades no cenário local de eSports. 
+
+Consideramos que organizar um campeonato tem grande valor: 
+
+1 - aos jogadores, pois permite que demonstrem suas habilidades a seus (possíveis) fãs e potenciais empregadores; 
+
+2 - a outras equipes (que possam estar a procura de membros); 
+
+3 - a empresas e organizações: tanto patrocinadores, que têm na audiência deste tipo de torneio universitário a atenção de jovens qualificados/se qualificando para o mercado de trabalho; quanto contratantes, que passam a conseguir viabilizar um serviço que, de outra forma, não seria possível, até mesmo pela ausência de empresas similares.
+
+Assim, entende-se como justa a premissa de monetizar as três esferas de potenciais clientes sob o alcance da eVarsity, tendo em vista os benefícios gerados a todos e os gastos inerentes à produção dos campeonatos. Porém, também entende-se que a função social da eVarsity se mostra maior do que apenas investimento e geração de renda, por encadear no desenvolvimento de todo um cenário social e econômico ainda pouco representado no país.
+
+Segue, portanto, um pequeno resumo do potencial de precificação dos serviços oferecidos pela eVarsity, no que considera cada um dos tipos de consumidor final:
+
+\textbf{Para a audiência:}
+
+Para eventos não-presenciais, acredita-se que o valor imediato dos eventos não seja tão grande, dada a distância entre o espectador e o torneio e os custos menores de produção. Isso torna não muito interessante a cobrança de uma taxa, especialmente no que toca a dificuldade - e os gastos -  tecnológica de restringir a audiência via Internet. Porém, pensamos em produzir um material exclusivo a longo prazo, fornecido apenas para assinantes. Igualmente, a existência de uma loja online de produtos da eVarsity ajudar na capitalização de ganhos para a empresa.
+
+Para eventos presenciais, o valor despendido é maior, o que justificaria a cobrança de uma taxa de entrada para os espectadores. Porém, considerando-se a pouca disponibilidade direta de renda do público universitário para gastos supérfluos, imagina-se que a cobrança de taxas, pelo menos a curto prazo, não resultaria proveitosa. A venda de merchandising \textit{in loco} e a capitalização da audiência como ferramenta de barganha para com possíveis patrocinadores dos eventos se mostram alternativas de capitalização mais viáveis.
+
+Estima-se que um valor médio de R\$15,00 por peça de merchandising a ser vendida (considerando-se itens caros, como camisas, e baratos, como pins) seja interessante para atrair a atenção de múltiplos espectadores.
+
+\textbf{Para os Jogadores:}
+
+Tanto para eventos online, quanto para eventos \textit{in loco}, é definida a cobrança de uma taxa de inscrição devida à existência de premiação em dinheiro para os vencedores. Competições com premiação, na visão tradicional da indústria, exigem algum tipo de retorno por parte dos jogadores. Nos grandes cenários internacionais, os grandes times pagam com suas próprias imagens e presença, capazes de atrair espectadores. Nos menores cenários, como o atingido pela eVarsity, os times pagam valores simbólicos de inscrição.
+
+Os valores de inscrição variam de acordo com as dimensões do torneio e com o tamanho do montante para premiação, mas experiências anteriores provam que um valor de R\$10,00 por integrante é considerado baixo. Para o curto prazo, ainda na fase de consolidação da empresa, cobrar um valor que orbite o supracitado é ideal.
+
+\textbf{Para as Empresas:}
+
+Para as empresas patrocinadoras, o valor total do patrocínio dependerá do alcance da coleta de dados do evento e do número de espectadores diretos ou indiretos a serem afetados pelas ações de divulgação da eVarsity. Estimar um preço padrão por patrocínio, portanto, se mostra exercício complexo. Experiências anteriores, porém, parecem dizer que os patrocinadores, no presente momento, dispõe-se a bancar um preço de R\$18,00 por espectador afetado, em média. A curto prazo, estimar valores de cobrança próximos a este é o ideal. A longo prazo, porém, com o aumento da penetrabilidade da eVarsity no mercado e com a consolidação de sua marca, não há motivos para revisar este valor para cima.
+
+Para as empresas contratantes de consultoria, seguimos a estratégia de preço pelo valor adicionado ao cliente. Nessa direção, a cobrança de valor para a outra empresa seria complementar as necessidades para a organização do evento. Por exemplo, entre uma empresa que, por si, forneça os computadores e o espaço físico, e outra que não os forneça, existirá uma discrepância de preço. A precificação precisa, tabelada, sugerida para as atividades de curto prazo da eVarsity se encontram na seção 4.5.3 Serviços e Consultoria Externa deste mesmo documento.
+
 \subsubsection{Praça}
+O principal canal de distribuição dos eventos será a Internet. Existem diversas plataformas e comunidades online para a transmissão de competições, inclusive em tempo real. A longo prazo, é possível a elaboração de um site próprio. Os eventos online serão realizados todos remotamente, via internet. Os eventos presenciais ocorrerão em universidades e escritórios alugados/comprados pela organização. Tanto online quanto \textit{in loco}, contarão com narração em tempo real e também com cobertura de streaming para audiência.
+
+A atividade de consultoria poderá ser realizada em espaços cedidos pelas empresas contratantes ou em espaços oferecidos pela própria eVarsity, obtidos em caráter perene ou através de locação.
 \subsubsection{Promoção}
+A atividade promocional da eVarsity tem como objetivo prioritário promover o conhecimento, por parte de seu potencial mercado consumidor, dos serviços oferecidos. Considerando-se a proximidade de nossas atividades e de nosso mercado consumidor com a internet e as redes sociais, faz-se claro que a alternativa de divulgação mais efetiva, especialmente no que se considera alcance e custo, é através da Internet e via Mídias Sociais. A própria pulverização de nosso potencial mercado consumidor, assumidamente capaz de assistir e participar das atividades (mesmo que apenas das online) à distância, faz toda e qualquer divulgação física e localizada muito menos efetiva. Desta forma, atividades promocionais tradicionais, com a utilização de mídias físicas, só serão postas em prática em situações específicas, especialmente na proximidade das localidades - e no período de tempo de ocorrência - onde serão realizadas as atividades presenciais, ou em localizações focais de nosso mercado consumidor (o Centro de Tecnologia da UFRJ, ou o Campus da Praia Vermelha da UFF, por exemplo). 
 \subsubsection{Pessoas}
+Uma descrição detalhada da equipe será apresentada na seção 3. Plano Operacional deste documento. Uma descrição branda resumiria as pessoas envolvidas na empresa nas seguintes categorias: 
+
+1- Diretores: responsáveis pela organização e pela viabilização técnica e financeira de eventos, além de integrarem o conselho gestor e de planejamento estratégico da eVarsity; 
+
+2 - Narradores, Observadores e Comentaristas: responsáveis por descrever e explicar o que ocorre durante os jogos;
+
+3 - Equipe Técnica: responsáveis pela criação e manutenção da infraestrutura tecnológica, informacional e logística da eVarsity e de suas atividades, e pela confecção direta do material de divulgação.
 \subsubsection{Processos}
+Os processos operacionais podem-se dividir em duas áreas: organização de evento próprio ou organização de evento para terceiros.
+
+Em um evento próprio, o comitê de planejamento se reunirá e definirá as datas, fazendo assim um calendário anual com todos os eventos organizados pela empresa. O planejamento de cada evento deve conter todas as informações necessárias para sua organização - presencial ou não, número de participantes, premiação e outros.
+
+Em um evento organizado para terceiros, o comitê de planejamento oferecerá um projeto descritivo para o contratante, informando os custos e necessidades para a realização de um evento com o padrão solicitado e a divulgação e a realização será executada seguindo o mesmo modelo de organização própria.
 \newpage
 \section{Plano Operacional}
 \subsection{Layout Operacional}
+A organização utilizará as principais plataformas sociais para divulgar seu trabalho; a equipe de comunicação e marketing será responsável por mantê-los. Nossa principal mídia de divulgação será uma página própria no Facebook. Nesta página divulgaremos streams na Twitch e no Youtube, bem como campeonatos e eventos. Contaremos também, se necessário, com um servidor do Discord para entrar em contato com nossa comunidade de uma forma mais interativa. O Twitter será uma plataforma de divulgação em paralelo ao Facebook. Teremos também, em segundo plano, um sub-Reddit.
+
+A principal idéia é aproveitar as plataformas sociais já existente com o objetivo de reduzir custos de hospedagem e alcançar o público que já as utiliza. O website site contará com links para as principais rede sociais e cadastro de eventos tanto por partes do jogador, como por parte do espectador, se necessário.
 \subsection{Capacidade de Prestação}
+Para campeonatos presenciais, sem jogos simultâneos, estima-se que serão necessários 10 computadores com as seguintes configurações recomendadas:
+
+Windows 7, Core I5,  6Gb de Ram, 30 Gb de HD, Monitor Full HD 23’’, Placa de Video NVIDIA GTX 760.
+
+Os periféricos (mouses, teclados e headsets) são trazidos pelos próprios competidores, por questão de adaptação pessoal e preferência própria constatada nos jogadores. Além dos hardwares informados, para campeonatos presenciais deveremos contar com 10 abafadores de som. 
+
+Para campeonatos online, a maioria dos jogos atendidos pela  organização oferece uma infraestrutura de salas privadas para a criação dos nossos torneios, permitindo uma maior flexibilidade e um custo quase nulo para a organização. Para jogos que necessitem de uma infraestrutura própria, contaremos com um servidor que hospedará os jogos, tanto no caso presencial, quanto no caso online (se for necessário).
+
+É importante lembrar que para campeonatos presenciais, ocorrerá uma limitação física de espaço para o número de telespectadores no local, entretanto embora o evento seja presencial, os jogos continuarão sendo transmitidos através dos canais de streaming.
 \subsection{Processos Operacionais}
+Os processos operacionais podem se dividir em duas áreas: organização de evento próprio ou organização de evento para terceiros.
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[scale=0.45]{img/img01.png}
+	\caption{Crescimento do número de Telespectadores de eSport}
+\end{figure}
+Em um evento próprio, o conselho de planejamento formado pelas três diretorias, se reunirá e definirá as datas, fazendo assim um calendário anual com todos os eventos organizados pela empresa. O planejamento de cada evento deve conter todas as informações necessárias para sua organização - presencial ou não, número de participantes, premiação e outros. Na fase de captação de recursos, o departamento de marketing deverá propor ações de venda, merchandising, publicidade e propaganda, bem como a busca de patrocínio através de oferta de divulgação e/ou espaço para venda de produtos durante o evento, assim como da oferta dos dados, já tratados, conscientemente fornecidos pelos espectadores. Durante a captação de recursos, é importante alcançar o valor saudável definido pelo departamento financeiro. Na divulgação, serão realizadas propagandas nas principais redes sociais e comunidades gamers. A fase final de realização será responsabilidade da Diretoria Operacional, que deverá reunir a equipe pessoal necessária para a execução, preparar a infraestrutura e cuidar de qualquer imprevisto.
+
+Em um evento organizado para terceiros, o comitê de planejamento oferecerá um projeto descritivo para o contratante, informando os custos e necessidades para a realização de um evento com o padrão solicitado. A divulgação e a realização serão executadas seguindo o mesmo modelo de organização própria.
+
 \subsection{Necessidade inicial de colaboradores}
+Estima-se que, de início, serão necessários os seguintes colaboradores desempenhando as seguintes funções: 
+
+\textbf{Diretor(a) de Finanças (CFO)} - Esse papel será assumido por um dos sócios. Suas responsabilidades serão: Administração dos riscos financeiros e planejamento financeiro da organização
+
+\textbf{Diretor(a) de Marketing (CMO)} -  Esse papel será assumido por um dos sócios. Suas responsabilidades serão: Coordenar serviços de marketing na empresa,  propor ações de venda interna e externa, merchandising e programas de publicidade e propaganda. Analisar propostas de mídia e editoração de publicações internas e externas, visando promover o consumo de produtos e/ou utilização dos serviços oferecidos pela empresa.
+
+\textbf{Diretor(a) de Operações (COO)} - Esse papel será assumido por um dos sócios. Suas responsabilidades são complexas: deve gerenciar o dia-a-dia das operações da empresa, bem como toda a operação dos eventos, que vai desde a organização até a execução
+
+\textbf{Analista de Design} - Esse papel pode ser assumido por um colaborador contratado através de regime MEI (Microempreendedor Individual) ou ser terceirizado. Suas responsabilidades serão: conceber e confeccionar as mídias de divulgação da organização, de seus eventos e dos produtos a serem comercializados (camisas, canecas e outros)
+
+\textbf{Narradores} - Será necessário, de início, um narrador para cada um dos jogos atendidos pela organização (5). Esse papel pode ser assumido por um colaborador contratado através de regime MEI (Microempreendedor Individual). Suas responsabilidades serão: Descrever oralmente as situações que ocorrem durante os jogos de forma dinâmica e descritiva.
+
+\textbf{Comentaristas} - Será necessário, de início, um comentarista para cada um dos jogos atendidos pela organização (5). Esse papel pode ser assumido por um colaborador contratado através de regime MEI (Microempreendedor Individual). Suas responsabilidades serão: Analisar jogadas, escolhas e estratégias adotadas pelos times/jogadores durante os jogos, servirá de suporte ao narrador para transformar a transmissão em algo mais dinâmico.
+
+\textbf{Observador(a)} -  Esse papel pode ser assumido por um colaborador contratado através de regime MEI (Microempreendedor Individual). Sua responsabilidade será guiar a câmera em alguns jogos (CS GO e Overwatch).
+
+\textbf{Assessoria Contábil e Jurídica} - Esse papel pode ser assumido por uma empresa (ou indivíduo) terceirizada. Sua responsabilidade será assessorar a Diretoria da eVarsity com questões de caráter jurídico e financeiro.
+
 \newpage
 \section{Plano Financeiro}
 \subsection{Investimentos Iniciais}
+Os Investimentos Iniciais da eVarsity consistem na aquisição dos meios básicos para a realização dos Campeonatos Presenciais. Os meios básicos se dividem entre Computadores, Equipamentos de Rede e estrutura física. Outros gastos gerais, como infraestrutura local, iluminação, aparelhagem de som e servidores para realização de Campeonatos Online não seriam perenes. Segue relação do quantitativo de cada área de investimento:
+\begin{table}[ht]
+	\rowcolors{1}{}{}
+	\centering
+	\begin{tabular}{p{3.5cm}p{4.3cm}p{2cm}p{2cm}p{2.5cm}}
+		\hline
+		\cellcolor{gray}Descrição&\cellcolor{gray}Especificação&\cellcolor{gray}Quantidade&\cellcolor{gray}Valor Unitário&\cellcolor{gray}Total \\
+		\hline
+		Computadores&AMD FX-8320E 8GB HD 1TB VGA R7-360&12&R\$2.599,90&R\$31.198,80\\
+		Servidor&HP ISS ML110 Gen9&1&R\$2.699,90&R\$2.699,90\\
+		Switch&HP 1410-16 16-Portas&12&R\$330,00&R\$330,00\\
+		Cabos de Redes&Tipos Variados&-/-&R\$300,00&R\$300,00\\
+		Mesa Competição&5m x 1m&2&R\$750,00&R\$1.500,00\\
+		Mesa Servidor&1.5m x 1m&1&R\$300,00&R\$300,00\\		
+		Projetor&Epson Powerlite W28+&1&R\$2.499,90&R\$2.499,90\\		
+		Tela de Projeção&TT07 com Tripé&1&R\$697,00&R\$697,00\\	
+		Abafadores de Ruído&3M Peltor&10&R\$32,00&R\$320,00\\			
+		Miscelânea&Adaptadores de Tomada, filtros de linha, extensões, etc&-/-&R\$1.000,00&R\$1.000,00\\			
+		\hline
+		&&&\textbf{Total}&\textbf{R\$40.548,60}\\
+		\hline
+	\end{tabular}
+\end{table}
 \subsection{Capital de Giro}
+O Capital de Giro necessário para a manutenção das atividades da eVarsity consiste nos gastos necessários para a manutenção dos equipamentos, para a operacionalização inicial de cada novo evento (lastro para pagar por serviços de impressão de material de divulgação e gastos operacionais com transporte dos Computadores e Materiais de Rede) e pelo pagamento das despesas operacionais a cada um dos trabalhadores da empresa que tomaram parte no último evento - tendo em vista o caráter inconstante dos ganhos da eVarsity, os empregados recebem pagamentos diretos em cada evento ao invés de receberem salários. 
+
+O valor do capital de giro seria estimado, então, em torno de 10\% do valor dos equipamentos (R\$4.054,86), adicionados a um capital base de R\$4.000,00 para iniciar novos eventos e a 20\% do lucro líquido gerado durante o último evento (estimado em R\$10.000,00). O valor do Capital de Giro da eVarsity, portanto, é estimado em R\$10.054,86.
 \subsection{Investimentos Pré-Operacionais}
+Considerando que todos os preparativos pré-operacionais (criação de identidade visual, concepção de divulgação, entre outros) serão exercidos por funcionários do próprio corpo fundador da eVarsity, não existe custo pré-operacional para a operação da empresa.
 \subsection{Investimento Total}
+O Investimento Total inicial, então, comporia a importância de R\$50,603,46.
 \subsection{Estimativa de faturamento}
-\subsection{Estimativa do custo de comercialização}
-\subsection{Estimativa do custo de cada produto vendido}
+A característica dupla da prestação dos serviços da eVarsity torna a estimativa do faturamento da empresa um tanto quanto complexa. O espectador/jogador dos campeonatos organizados, embora também cliente potencial da empresa, se configura no principal mecanismo de barganha em relação aos principais clientes da empresa: as empresas patrocinadoras. 
+
+A estimativa de faturamento, portanto, deve conter a expectativa de patrocínio a ser recebido - o que varia com a quantidade de espectadores que os eventos atraem -, a possibilidade de venda de produtos secundários durante os eventos (camisas, canecas, etc.) - que também varia de acordo com a quantidade de espectadores - e a possível prestação de serviços/consultoria para outras organizações que desejem fazer eventos desse tipo.
+
+Devem ser divididos os possíveis clientes, então, em 3 tipos: espectadores, patrocinadores e contratantes. Segue análise separada para cada um deles.
+\subsubsection{Espectadores}
+
+Para estimar o faturamento direto com os espectadores, é preciso, primeiramente, definir os tipos de receita que podem gerar: 
+
+1. Compra de merchandising dos eventos 
+
+2. Subscriptions e doações via Twitch 
+
+3. Ganho indireto com consumo de mídia em sites como YouTube.
+		
+Para estimar o faturamento possível em cada modalidade, deve-se primeiro estimar o mercado consumidor para cada modalidade.
+
+\subsubsection{Merchandising}
+
+A venda de merchandising, a curto prazo, será realizada dentro dos próprios eventos. Portanto, deve-se estimar a quantidade de possíveis espectadores presenciais para cada evento
+
+Considerando que os eventos serão realizados, com certeza, no mínimo dentro da UFRJ, dentre todas as Universidades do estado do Rio de Janeiro, o grupo mínimo de universitários a ser afetado seria de 67.329 indivíduos (UFRJ, 2013). Considerando a estimativa pessimista de que aproximadamente 35\% dos alunos apresentam algum tipo de interesse em jogos eletrônicos, existe um mercado potencial de 23.565 pessoas. Considerando uma taxa de interesse de 10\%, e que os produtos só seriam atualizados uma vez por ano, podemos dizer que 2.356 pessoas/ano poderiam comprar merchandising apenas na UFRJ. Considerando um valor médio de R\$20,00 por compra - preço mínimo de venda de uma camisa - haveria um faturamento potencial de R\$47.120,00 por ano.
+
+Quando expandindo os eventos para algumas das outras grandes universidades do Estado do Rio de Janeiro (UNIRIO - 11.141 alunos em 2014 - UFF - 51.422 alunos em 2013 - UERJ - 28.624 alunos em 2014 - PUC-Rio - 17.900 alunos em 2015) e mantendo-se a estimativa de 35\% de espectadores nos eventos e em 10\% a taxa de interesse nos produtos, o possível mercado consumidor se expande para 61.745 pessoas, e o faturamento potencial para R\$123.490,00. Considerando-se que nem todos os interessados efetivamente comprarão produtos repetidamente todos os anos, estimamos a média de receita por cliente em R\$5,00.
+
+\subsubsection{Plataformas de Streaming}
+
+A receita direta a ser obtida com os espectadores via plataformas de streaming condiz à inscrição direta mensal ao canal de streaming e a doações livres a serem operacionalizadas via PayPal. Cada inscrição rende U\$2,50 por mês, e as doações são livres. Considerando o meio de exposição, é possível afirmar que não apenas universitários podem compor o mercado consumidor, sendo impossível estimar a profundidade do mesmo. Convertendo o valor para reais na conversão direta de 19/11/2016, o consumo por consumidor, considerando ausência de doações e apenas meio ano de inscrição, gira em torno de R\$50,76/ano. Considerando-se uma média ainda mais baixa, com apenas um mês de inscrição em média, cada espectador gerará R\$8,50/ano.
+
+\subsubsection{YouTube e Similares}
+O mecanismo de monetização do YouTube consiste em um sistema chamado CPM, que remunera o produtor de conteúdo de acordo com 1.000 exibições de vídeo com propagandas de terceiros adicionadas. Segundo artigo do NYT de fevereiro de 2014\footnote{\url{http://www.nytimes.com/2014/02/02/business/chasing-their-star-on-youtube.html?_r=1}}, o CMP médio girava em torno de U\$7,60. Considerando a taxa retirada pelo próprio YouTube, cada 1000 visualizações geraria U\$4,18, ou  R\$13,95. Considerando que cada usuário pode assistir quantos vídeos desejar, e assistir o mesmo vídeo mais de uma vez, é impossível calcular com precisão a contribuição individual de cada cliente. É possível dizer porém, que o valor se mostre ínfimo para o cálculo final do faturamento por cliente.
+
+O faturamento direto por Espectador, então, seria de R\$13,50/ano.
+
+A longo prazo, é possível a cobrança de um valor para que cada espectador ingresse nas arenas onde estarão sendo realizados os torneios, o que aumentará consideravelmente o faturamento deste tipo de cliente. A curto prazo, porém, o caráter estritamente amador e Universitário dos torneios inviabiliza este tipo de cobrança.
+
+\subsubsection{Patrocinadores}
+Como dito anteriormente, os espectadores não são apenas mercado consumidor. Por se tratar de eventos universitários, os campeonatos se apresentam como excelente oportunidade de divulgação para empresas de que busquem se fazer conhecidas no meio. Empresas que busquem oportunidades de contratação de universitários de todas as áreas, especialmente daqueles que apresentem afinidade perante a área de Tecnologia da Informação - afinal, os campeonatos são desenvolvidos em cima de esportes eletrônicos - encontrarão um espaço fértil para divulgação própria e para obtenção de mailing lists e de indicações. Pode-se dizer que os principais clientes da eVarsity são as grandes contratantes de Universitários, especialmente empresas de Tecnologias, na forma de patrocinadoras.
+
+Estimar o faturamento por patrocinador depende da estimativa de quantos espectadores pode-se contar com por evento. Novamente, considerando apenas o número de alunos da UFRJ e os 35\% estimados de interesse possível nos eventos, existe um mercado potencial de 23.565 indivíduos capacitados, em Cursos de Nível Superior de Universidade reconhecida, a serem diretamente afetados pelas ações de marketing dos possíveis patrocinadores. Considerando-se as outras Universidades já citadas, esse número beira os 61.745 indivíduos capacitados.
+
+Considerando-se o interesse já apresentado, é possível realizar um cálculo de que cada espectador hoje vale, em média, R\$18,00, com tendência de crescimento. Considerando-se o potencial de 61.745 espectadores/ano, calcula-se um potencial de arrecadação de R\$1.111.410,00. Considerando-se a realização de múltiplos eventos por ano e a possibilidade de diferentes organizações patrocinarem cada um dos eventos, é difícil oferecer uma estimativa do Faturamento por Cliente neste caso. 
+As experiências anteriores, porém, nos permitem estimar um valor médio na importância de R\$15.000,00/evento por patrocinador individual.
+
+\subsubsection{Serviços e Consultoria Externa}
+O terceiro grupo de clientes da eVarsity é composto por contratantes que busquem uma empresa para organizar e operacionalizar campeonatos de esportes eletrônicos, sem a necessidade de que sejam de caráter exclusivamente Universitário. Considerando-se os custos operacionais e de garantia de materiais, a eVarsity cobra como taxa básica 10\% do valor dos equipamentos a serem utilizados por dia de duração do campeonato, adicionados de uma taxa variável de acordo com a expectativa média de público do evento a ser realizado e à contratação dos funcionários da eVarsity que trabalharão no evento. 
+
+O faturamento por cliente, então, não poderia ser menor do que R\$6.000 para um evento de um dia (R\$4.000,00 representando os 10\% dos materiais iniciais da eVarsity, R\$2,00 por espectador - ou 1000R\$ para os 500 espectadores esperados por um evento pequeno - e R\$1.000/(dia de 8 horas) dos salários do Staff mais reduzido possível). Um evento de semana inteira para os mesmos 500 espectadores, então, geraria uma receita de R\$10.000. Segue tabela:
+\begin{table}[ht]
+	\rowcolors{1}{}{}
+	\centering
+	\begin{tabular}{p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}}
+		\hline
+		\cellcolor{gray}Descrição&\cellcolor{gray}Valor Unitário&\cellcolor{gray}Adicional por Dia&\cellcolor{gray}Estimativa\\
+		\hline
+		Materiais para realização dos Jogos (PCs e Rede)&15\% do Valor total dos Produtos + 2\% por diária + Diária do Administrador de Redes&Diária de Aluguel dos Equipamentos e do Administrador de Redes&10 PCS: R\$5,500
+		Montagem: R\$1.000
+		Diária dos Equipamentos:: R\$700,00
+		Diária do Adm de Redes: R\$1.000,00\\	
+		\hline			
+		Narradores e Analistas para as Partidas&Salário dos Narradores/Analistas&Integral&Diária: R\$750,00 por Pessoa\\
+		\hline							
+	\end{tabular}
+\end{table}	
+\begin{table}[h!]
+	\rowcolors{1}{}{}
+	\centering
+	\begin{tabular}{p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}}	
+	Observador para as Partidas&Salário&Integral&Diária do Observador: R\$500,00\\	
+	\hline					
+	Material para Transmissão Offline (Projetor, Tela, PCs de Streaming)&10\% do Valor total dos Produtos + 2\% por diária&Diária de Aluguel dos Equipamentos&Infra Mínima: R\$500,00
+	Diária dos Equipamentos: R\$100,00\\
+	\hline		
+	Material para Transmissão Online (Configuração de Rede, Setup e Operação de Stream)&10\% do Valor total dos Produtos + Diária do Responsável pela Stream&Apenas Diária&Materiais: R\$500,00
+	Diária do Responsável pela Stream: R\$1.000,00\\
+	\hline		
+	Consultoria e Operação de Áudio para Casting Offline&10\% do Valor dos Produtos Utilizados + Montagem + Diária do Engenheiro de Áudio&Diária&Estudo e Montagem: R\$1000,00
+	Materiais: R\$30,00
+	Diária do Eng. de Áudio: R\$1.000,00\\
+	\hline
+	Consultoria para pós-produção ao vivo da Transmissão&Valor das Peças Produzidas + Adicional à Diária do Responsável pela Stream&Diária&Materiais Gráficos: R\$80,00 por Peça
+	Adicional à Diária do Responsável da Stream: R\$500,00\\
+	\hline
+	Admins Para as Partidas&Diária dos Admins&Integral&Diária: R\$500,00 para cada duas pessoas.\\
+	\hline
+	Embelezamento da Arena e Iluminação da Mesa de Narração&80\% do Valor do Aluguel dos Produtos Utilizados + Salário da Montagem&Nenhum&Materiais: R\$6.000,00
+	Montagem: R\$1.000,00\\			
+	\hline
+	Múltiplas Linhas de Vídeo na Stream: Operação de Câmeras&80\% do Valor do Aluguel dos Produtos Utilizados + Montagem + Diária dos Operadores de Câmera + Diária do Diretor de Vídeo&Diárias&Materiais: R\$10.000,00
+	Montagem: R\$1.000,00
+	Diária Operadores de Câmera: R\$750,00 por Pessoa
+	Diária do Diretor de Vídeo: R\$1.500,00\\
+	\hline
+\end{tabular}
+\end{table}
+\newpage
+Um evento completo teria, então, custo fixo de ao contratante na casa dos R\$23.330,00 para materiais e na casa dos R\$4.000,00 para montagem, além de um custo variável com uma diária mínima na casa dos R\$7.500,00 considerando-se o mínimo possível de 7 pessoas e um evento de apenas um dia, num total de R\$34.380,00.
+
+Caso o Cliente já possua os materiais necessários à realização do evento, serão cobrados apenas os valores dos salários dos funcionários, além do valor de montagem das estruturas, de um valor a ser combinado de acordo com o número de espectadores do evento e de divulgação abrangente da eVarsity como sua firma de produção.
+Considerando-se que a maioria dos eventos, a curto prazo, não envolveria todos os módulos e se estenderia entre 1 e 3 dias, estimamos o faturamento médio por cliente na casa dos R\$12.000,00.
+\subsection{Estimativa do custo do serviço}
+Como a atividade da eVarsity se baseia na produção de eventos e na venda de espaço de patrocínio, é difícil estimar um valor fixo para seus custos operacionais. Para tentar aproximar um valor para este quesito, dividem-se os custos entre Custos de Operação Online - quando o Campeonato só é realizado via Internet - e Custos de Operação \textit{in Loco} - quando o Campeonato é presencial.
+
+\textbf{Custos de Operação Online:}
+
+Aluguel de Servidores Para Hospedagem dos Jogos: R\$85,00/mês/Servidor
+
+Administradores do Torneio: R\$200,00/mês/pessoa
+
+Produção de Peças de Divulgação Online: R\$80,00/peça
+
+Produção de Vídeos de Divulgação: R\$300,00/vídeo
+
+Premiação dos Vencedores: Variável entre não-existente e R\$1.000,00
+	
+	
+Custo médio por Torneio Online: R\$1.000
+	
+\textbf{Custos de Operação \textit{In Loco:}}
+
+Transporte dos materiais até o local de realização do evento: Média de R\$800,00
+
+Diárias dos Funcionários: Variável para cada tipo de Evento. Mínimo de R\$7.500,00 para um evento completo de um dia com o mínimo Staff possível, ou de R\$2.500,00 para o menor evento possível, também de um dia e também com mínimo Staff possível.
+
+Custos com Aluguel de Equipamentos extras: Variáveis entre não-existentes e R\$16.000,00
+
+Custos com Adaptação do Espaço: Variáveis entre não-existentes e R\$2.000,00
+
+Custos com Aluguel do Espaço: Variáveis entre não-existentes e R\$10.000,00
+
+Premiação dos Vencedores: Variável entre R\$600,00 e R\$1.500,00
+
+Produção de Peças de Divulgação Online: R\$80,00/peça
+	
+Custo médio por Torneio In Loco: R\$6.000,00 para torneios externos (sem recebimento de Patrocínio) e R\$10.000,00 para torneios internos (com recebimento de Patrocínio).
+
+\subsubsection{Estimativa de Custo de Comercialização}
+Os principais custos de Comercialização da eVarsity serão as taxas cobradas sobre as transferências bancárias para recebimento das cotas dos patrocinadores e de eventuais taxações sobre a venda de merchandising, caso seja utilizada máquina de cartão para sua venda, e sobre o recebimento do valor de inscrições e doações online devido à taxa de operação de serviços como PayPal e PagSeguro. Estima-se essas taxas em uma média de 5\% do arrecadamento bruto das atividades distintas da eVarsity.
+
+\subsubsection{Provisão para Devedores Duvidosos}
+Considerando o caráter imediato das vendas de merchandising e do recebimento dos valores de inscrição e doação em mídias sociais, assim como a assinatura de contratos para o recebimento das cotas de patrocínio, fica a eVarsity imune ao risco de inadimplência, não sendo necessária, portanto, armazenagem de capital para PDD.
+
 \subsection{Custos com Depreciação}
+Observando os itens adquiridos para a manutenção de servidores e produção de eventos, vemos que diversos itens sofrem uma depreciação que deve ser contabilizada. Sendo assim foram contabilizados custos de 20\% a.a. para os computadores, cabos de rede, switch e servidor.
+
+\begin{table}[ht]
+	\rowcolors{1}{}{}
+	\centering
+	\begin{tabular}{p{3.5cm}p{2cm}p{3cm}p{3.5cm}p{2.5cm}}
+		\hline
+		\cellcolor{gray}Equipamento&\cellcolor{gray}Referência NCM&\cellcolor{gray}Prazo de vida útil (anos)&\cellcolor{gray}Taxa de Depreciação Anual (\%)&\cellcolor{gray}Depreciação \\
+		\hline
+		Computadores&8471&5&20&R\$6.239,60\\
+		Cabos de Rede&8471&5&20&R\$60,00\\
+		Switch&8471&5&20&R\$66,00\\
+		Servidor&8471&5&20&R\$539,98\\
+		Mesa Competição&10&10&R\$150,00\\
+		Mesa Servidor&9403&10&10&R\$30,00\\		
+		Projetor&8525&5&20&R\$499,80\\		
+		Tela de Projeção&9010&10&10&R\$ 69,70\\				
+		\hline
+		&&&\textbf{Total}&\textbf{R\$7.655,08}\\
+		\hline
+	\end{tabular}
+\end{table}
 \subsection{Custos Operacionais}
 \subsection{DRE}
 \subsection{O Fluxo de Caixa}
@@ -204,5 +501,18 @@ Ao examinar o posicionamento competitivo da eVarsity, ao interpretar os números
 \section{Estrutura da Empresa}
 \subsection{Estrutura Organizacional}
 \subsection{Estrutura jurídica}
+Dentre as opções existentes atualmente, opta-se pelo regime tributário de lucro presumido para uma empresa de serviços, com lucro presumido de 32\%. Assim, os tributos que a empresa terá que pagar são:
+
+PIS, equivalente a 0,65\% do faturamento bruto;
+
+COFINS, equivalente a 0,65\% do faturamento bruto;
+
+ISS, taxa de 5\% do faturamento bruto cobrada pelo município do Rio de Janeiro;
+
+IRPJ; alíquota de 15\% sobre o lucro, equivalente a 4,8\% do faturamento bruto;
+
+CSSL; contribuição de 9\% sobre o lucro, equivalente a 2,88\% do faturamento bruto;
+
+Os impostos no lucro presumido são descontados diretamente no faturamento bruto e, no caso do eVarsity, totalizam 16,33\% do faturamento. A empresa não possui seu quadro social definido, vide que há a expectativa da entrada de um investidor que possa capitalizar os recursos necessários para o projeto.
 
 \end{document}
